@@ -128,6 +128,7 @@ If you use these models in your project or research, please cite:
 
 Contributions are welcome — whether for adding browser-only demos, model caching strategies, error handling enhancements, or expanding supported languages. Just open an issue or PR!
 -->
+
 ---
 
 ## **License**
