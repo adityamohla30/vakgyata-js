@@ -132,4 +132,5 @@ Contributions are welcome — whether for adding browser-only demos, model cachi
 
 ## **License**
 
-`vakgyata-js` is MIT licensed (or your preferred license). Note that `open-vakgyata` is under CC‑BY‑NC‑4.0, which means it's free for non-commercial use only. ([Hugging Face][3])
+`vakgyata-js` is Apache 2.0 licensed. 
+Note that `open-vakgyata` is under CC‑BY‑NC‑4.0, which means it's free for non-commercial use only. ([Hugging Face][3])
