@@ -17,15 +17,13 @@ JavaScript library for Vakgyata models (Indian speech language identification)
 
 Vakgyata offers several variants with different parameter sizes and accuracy levels:
 
-| Model Variant                                                   | Parameters | Accuracy |
-| --------------------------------------------------------------- | ---------- | -------- |
-| vakgyata-base                                                   | \~95 M     | \~95.88% |
-| vakgyata-small                                                  | \~52 M     | \~95.06% |
-| vakgyata-mini                                                   | \~38 M     | \~95.06% |
-| vakgyata-tiny                                                   | \~24 M     | \~93.63% |
-| *(Data based on Hugging Face model cards.)* ([Hugging Face][1]) |            |          |
-
-Additionally, **open‑vakgyata** is a mid-sized variant (\~58.7 M parameters) offering slightly fewer supported languages under a different license (CC‑BY‑NC‑4.0). ([Hugging Face][2])
+| Model Variant                                                   | Parameters | License      |
+| --------------------------------------------------------------- | ---------- | --------     |
+| [vakgyata-base](https://huggingface.co/onecxi/vakgyata-base)                                                   | \~95 M     | Apache 2.0   |
+| [vakgyata-small](https://huggingface.co/onecxi/vakgyata-small)                                                  | \~52 M     | Apache 2.0   |
+| [vakgyata-mini](https://huggingface.co/onecxi/vakgyata-mini)                                                   | \~38 M     | Apache 2.0   |
+| [vakgyata-tiny](https://huggingface.co/onecxi/vakgyata-tiny)                                                   | \~24 M     | Apache 2.0   |
+| [open-vakgyata](https://huggingface.co/onecxi/open-vakgyata)                                                   | \~58.7 M   | CC‑BY‑NC‑4.0 |
 
 ---
 
