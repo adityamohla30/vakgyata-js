@@ -46,6 +46,14 @@ The Vakgyata models support identification for the following Indian languages:
 
 Note: The **open‑vakgyata** variant supports the same languages except Assamese and Punjabi. ([Hugging Face][2], [Hugging Face][1])
 
+## **Usage**
+
+```bash
+node index.js <model_name> <audio_file_path>
+```
+
+Note: Audio should be Mono, 16-bit PCM sampled at 16kHz
+
 <!--
 ---
 
